@@ -1,6 +1,3 @@
-package ukl2024;
-
-
 public class soal3no3 {
     public static void main(String[] args) {
         count();
