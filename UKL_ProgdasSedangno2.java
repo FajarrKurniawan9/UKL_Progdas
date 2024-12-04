@@ -1,5 +1,3 @@
-package ukl2024;
-
 import java.util.Scanner;
 
 public class soal2no2 {
